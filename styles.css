@@ -1,0 +1,82 @@
+.body-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aqua;
+}
+.header-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(236, 175, 134);
+    color: rgb(170, 73, 73); 
+}
+.nav-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(116, 252, 112);
+    color: rgb(5, 92, 70);
+
+}
+.nav-link-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(139, 126, 0);
+}
+.nav-class a.active {
+    font-weight: bold;
+}
+
+.title-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(179, 76, 90)
+}
+
+.section-title-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(59, 68, 184)
+}
+
+.text-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(13, 91, 94)
+}
+
+.image-class {
+    width: 100%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 4px solid rgb(37, 125, 226);
+}
+
+.form-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 20px;
+    background-color: rgb(120, 191, 231);
+}
+
+.form-class input {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #2c5169;  
+    color: #333; 
+    margin-bottom: 15px; 
+} 
+
+.form-class textarea {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 150px; 
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #753a1f;
+    background-color: #12dee6;
+    resize: vertical; 
+    margin-bottom: 15px; 
+}
+
+.button-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ce7d95;
+}
+
+.footer-class {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(252, 198, 154);
+    color: #8b123a;
+}
+
+
